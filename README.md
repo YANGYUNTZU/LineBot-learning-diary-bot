@@ -14,3 +14,7 @@
 - line-bot-sdk（之後使用）
 - python-dotenv（之後使用）
 
+## 後續規劃
+- v0：建立基本 Echo Bot
+- v1：加入 SQLite 紀錄 & 關鍵字/情緒分析
+- v2：產出每週回顧報告
