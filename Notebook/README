@@ -1,0 +1,15 @@
+# 📓 Notebooks
+
+這個資料夾用來放置 NLP 模型實驗與原型測試，主要用於 **關鍵字提取** 與 **情緒分析** 模組的開發。
+
+## 檔案說明
+- `keywords_dev.ipynb`  
+  測試各種關鍵字提取方法（TF-IDF, spaCy, yake, etc.），並比較效果。
+
+- `sentiment_dev.ipynb`  
+  測試不同的情緒分析方法（rule-based, TextBlob, Hugging Face），找出最適合的版本。
+
+## 使用方式
+1. 啟動 Jupyter Lab / Notebook  
+   ```bash
+   jupyter lab
