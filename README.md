@@ -34,7 +34,7 @@
 pip install -r requirements.txt
 
 ### 2.建立 .env
-LINE_CHANNEL_SECRET=your_channel_secret_here
+LINE_CHANNEL_SECRET=your_channel_secret_here  
 LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
 
 ### 3.（未來）啟動伺服器並設定 LINE Webhook URL /callback
@@ -60,8 +60,7 @@ LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
 
     
  ## 🗺️ Roadmap
- ### 
-   版本  內容          時間     
+ ###    
  - v0   Echo Bot     2025/10 
  - v1   SQLite 紀錄   2025/10 
  - v2   關鍵字提取     2025/11 
