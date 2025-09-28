@@ -13,12 +13,15 @@
 
 
 ## 🗂️ 專案結構
-- src/               # 主要程式碼
-- tests/             # 測試程式
-- requirements.txt   # 套件需求
-- .env.example       # 環境變數範例
-- .gitignore         # 忽略檔案設定
-- README.md          # 專案說明
+- src/              # 主要程式碼
+- tests/            # 測試程式
+- notebooks/        # NLP 模型實驗
+  - keywords_dev.ipynb   # 關鍵字提取測試
+  - sentiment_dev.ipynb  # 情緒分析測試
+- requirements.txt  # 套件需求
+- .env.example      # 環境變數範例
+- .gitignore        # 忽略檔案設定
+- README.md         # 專案說明
 
 
 ## ⚙️ 環境需求
