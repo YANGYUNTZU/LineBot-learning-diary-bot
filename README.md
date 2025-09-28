@@ -15,13 +15,13 @@
 - python-dotenv（之後使用）
 
 ## 專案結構
-p2-learning-diary-bot/
-├─ README.md
-├─ requirements.txt
-├─ .gitignore
-├─ .env.example
-├─ src/
-│  ├─ (空，之後放程式碼)
-└─ tests/
-   └─ (空，之後放測試)
+-LineBot-learning-diary-bot/
+ ├─ README.md
+ ├─ requirements.txt
+ ├─ .gitignore
+ ├─ .env.example
+ ├─ src/
+ │   ├─ (空，之後放程式碼)
+ └─ tests/
+    └─ (空，之後放測試)
 
