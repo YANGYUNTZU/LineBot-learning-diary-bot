@@ -20,9 +20,9 @@ cd LineBot-learning-diary-bot/src/v0_echodemo
 
 
 ## 📅 後續計畫
-v1：新增 SQLite 紀錄功能（user_id, ts, text）
-v2：關鍵字提取模組（TF-IDF / spaCy / yake 測試）
-v3：情緒分析模組（rule-based / TextBlob / Hugging Face）
-v4：每週回顧（統計 + 簡單分析回饋）
-v5：視覺化報表（趨勢圖、情緒分布圖）
+- v1：新增 SQLite 紀錄功能（user_id, ts, text）
+- v2：關鍵字提取模組（TF-IDF / spaCy / yake 測試）
+- v3：情緒分析模組（rule-based / TextBlob / Hugging Face）
+- v4：每週回顧（統計 + 簡單分析回饋）
+- v5：視覺化報表（趨勢圖、情緒分布圖）
 
