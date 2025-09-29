@@ -7,7 +7,7 @@
 - 首先至 Line Developers登入後，建立新的Providers
 - 設定好自動回覆，將「Channel access token」以及「Channel secret 」儲存至記事本
 - 在colab中安裝「LINE Bot SDK v3」、「Flask」、「pyngrok」
-- 接著執行ngrok程式碼，取得Webhook URL，複製
+- 接著將ngrok網站上的密碼貼到colab中ngrok程式碼，取得Webhook URL，複製
 - #從Line bot sdk pypl網站找到程式碼貼上  
 https://pypi.org/project/line-bot-sdk/
 - 將「Channel access token」以及「Channel secret 」做更換，執行，程式呈現運轉中
