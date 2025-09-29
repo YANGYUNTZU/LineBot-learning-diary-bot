@@ -14,11 +14,12 @@ https://pypi.org/project/line-bot-sdk/
 - 最後將Webhook URL貼回Line Developer的專案中
 - 到Line app即可回聲對話
 
-### 下載專案
+### 🚀下載專案
 git clone https://github.com/YANGYUNTZU/LineBot-learning-diary-bot.git
 cd LineBot-learning-diary-bot/src/v0_echodemo
 
-##📅 後續計畫
+
+## 📅 後續計畫
 v1：新增 SQLite 紀錄功能（user_id, ts, text）
 v2：關鍵字提取模組（TF-IDF / spaCy / yake 測試）
 v3：情緒分析模組（rule-based / TextBlob / Hugging Face）
