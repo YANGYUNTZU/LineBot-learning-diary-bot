@@ -15,7 +15,7 @@ https://pypi.org/project/line-bot-sdk/
 - 到Line app即可回聲對話
 
 ### 🚀下載專案
-git clone https://github.com/YANGYUNTZU/LineBot-learning-diary-bot.git
+git clone https://github.com/YANGYUNTZU/LineBot-learning-diary-bot.git  
 cd LineBot-learning-diary-bot/src/v0_echodemo
 
 
