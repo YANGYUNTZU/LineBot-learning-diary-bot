@@ -64,7 +64,7 @@ LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
     
  ## 🗺️ Roadmap
  ###    
-- v0 Echo Bot → 2025/10 上旬
+- v0 Echo Bot → 完成
 - v1 SQLite 紀錄 → 2025/10 下旬
 - v2 關鍵字提取 → 2025/11 上旬
 - v3 情緒分析 → 2025/11 下旬
