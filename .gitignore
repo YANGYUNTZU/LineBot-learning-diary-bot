@@ -1,5 +1,10 @@
+# 忽略 Colab 運行時的資料夾
 __pycache__/
-*.pyc
-.venv/
+
+# 忽略資料庫檔案 (它們通常是巨大的二進位檔案，不適合版本控制)
+*.db
+*.sqlite
+*.sqlite3
+
+# 忽略環境檔案
 .env
-.DS_Store
