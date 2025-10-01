@@ -11,7 +11,7 @@
 - 將Webhook URL打開，即可在Line輸入訊息
 
 ## 📊 成果展示
-![v.1使用者訊息輸入以及系統回復和儲存](images/v1_SQLite.png) 
+![v.1使用者訊息輸入以及系統回覆和儲存](images/v1_SQLite.png)
 
 
 ## 🚀下載專案
