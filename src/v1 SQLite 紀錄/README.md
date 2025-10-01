@@ -10,6 +10,9 @@
 - 在「LINE Bot 程式」中輸入【Channel access token】、【Channel secret】後，執行程式
 - 將Webhook URL打開，即可在Line輸入訊息
 
+## 📊 成果展示
+![v.1使用者訊息輸入以及系統回復和儲存](v.1SQLite.png)
+
 ## 🚀下載專案
 git clone https://github.com/YANGYUNTZU/LineBot-learning-diary-bot.git  
 cd LineBot-learning-diary-bot/src/v1 SQLite 紀錄
