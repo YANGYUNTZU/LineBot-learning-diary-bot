@@ -1,6 +1,6 @@
 # 📌 專案簡介
 
-這是一個基於 LINE Messaging API 與 Flask 的聊天機器人專案。 目前為 v1：新增 SQLite 紀錄的功能，主要將使用者輸入的內容，儲存至SQLite中，以供後面【每週回顧】及【視覺畫報表】使用。 
+這是一個基於 LINE Messaging API 與 Flask 的聊天機器人專案。 目前為 v1：新增 SQLite 紀錄的功能，主要將使用者輸入的內容，儲存至SQLite中，以供後面【每週回顧】及【視覺化報表】使用。 
 
 ## ⚙️ 安裝方式
 - 首先先在SQLite中建立搜集資料欄位，本專案使用colab撰寫程式，設立新的檔案為v1_sqlite_dataseat.py（一定要存成py檔）
