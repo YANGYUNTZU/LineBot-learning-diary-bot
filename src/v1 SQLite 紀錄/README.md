@@ -11,7 +11,8 @@
 - 將Webhook URL打開，即可在Line輸入訊息
 
 ## 📊 成果展示
-![v.1使用者訊息輸入以及系統回復和儲存](v.1SQLite.png)
+![v.1使用者訊息輸入以及系統回復和儲存](v1_SQLite.png)
+
 
 ## 🚀下載專案
 git clone https://github.com/YANGYUNTZU/LineBot-learning-diary-bot.git  
