@@ -14,6 +14,9 @@ https://pypi.org/project/line-bot-sdk/
 - 最後將Webhook URL貼回Line Developer的專案中
 - 到Line app即可回聲對話
 
+## 📊 成果展示
+![v.0回聲測試](../../images/v0_EchoDemo.png)  
+
 ### 🚀下載專案
 git clone https://github.com/YANGYUNTZU/LineBot-learning-diary-bot.git  
 cd LineBot-learning-diary-bot/src/v0_echodemo
