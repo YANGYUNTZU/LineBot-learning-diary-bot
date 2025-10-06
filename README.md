@@ -40,7 +40,7 @@ pip install -r requirements.txt
 LINE_CHANNEL_SECRET=your_channel_secret_here  
 LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
 
-### 3.（未來）啟動伺服器並設定 LINE Webhook URL /callback
+### 3.啟動伺服器並設定 LINE Webhook URL /callback
 
 
 ## 🧩 功能規劃
@@ -65,14 +65,11 @@ LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
  ## 🗺️ Roadmap
  ###    
 - v0 Echo Bot → 完成
-- v1 SQLite 紀錄 → 2025/10 下旬
+- v1 SQLite 紀錄 → 完成
 - v2 關鍵字提取 → 2025/11 上旬
 - v3 情緒分析 → 2025/11 下旬
 - v4 週期回顧 → 2025/12 上旬
 - v5 視覺化 → 2025/12 下旬–2026/01
 
-
-## 📖 授權
-MIT License
 
 
