@@ -11,7 +11,7 @@
 - 重新啟動程式碼，測試
 
 ## 📊 成果展示
-![v.2關鍵字提取](../../images/v0_EchoDemo.png)  
+![v.2關鍵字提取](../../images/v2_keyword_extractor.png)  
 
 ### 🚀下載專案
 git clone https://github.com/YANGYUNTZU/LineBot-learning-diary-bot.git  
