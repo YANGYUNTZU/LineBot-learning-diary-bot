@@ -47,9 +47,8 @@ LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
 - v0：Echo Bot（確認 webhook 流程）
 - v1：寫入 SQLite → 儲存學習心得 & 心情
 - v2：關鍵字提取（TF-IDF / NLP 方法）
-- v3：情緒分析（規則式 / 模型）
-- v4：每週回顧報告（平均心情、Top Keywords）
-- v5：視覺化（圖表化學習／情緒趨勢）
+- v3：每週回顧報告（平均心情、Top Keywords）
+- v4：AI回饋
 
 
 ## 📊 系統流程圖（示意）
@@ -66,10 +65,9 @@ LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
  ###    
 - v0 Echo Bot → 完成
 - v1 SQLite 紀錄 → 完成
-- v2 關鍵字提取 → 2025/11 上旬
-- v3 情緒分析 → 2025/11 下旬
-- v4 週期回顧 → 2025/12 上旬
-- v5 視覺化 → 2025/12 下旬–2026/01
+- v2 關鍵字提取 → 完成
+- v3 週期回顧 → 
+- v4 AI回饋 → 
 
 
 
