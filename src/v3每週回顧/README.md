@@ -9,7 +9,7 @@
 - 進行測試，確認回傳每週日記的篇數，以及測試AIP函式運行成功
 
 ## 📊 成果展示
-![v.3每週回顧](../../images/v3_Weekly Summary.png)  
+![v.3每週回顧](../../images/v3_Weekly_Summary.png)  
 
 ### 🚀下載專案
 git clone https://github.com/YANGYUNTZU/LineBot-learning-diary-bot.git  
