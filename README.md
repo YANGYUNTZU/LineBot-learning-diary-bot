@@ -17,7 +17,6 @@
 - tests/            # 測試程式
 - notebooks/        # NLP 模型實驗
   - keywords_dev.ipynb   # 關鍵字提取測試
-  - sentiment_dev.ipynb  # 情緒分析測試
 - requirements.txt  # 套件需求
 - .env.example      # 環境變數範例
 - .gitignore        # 忽略檔案設定
@@ -54,11 +53,10 @@ LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
 ## 📊 系統流程圖（示意）
 ### flowchart TD
      A[使用者輸入心得+心情] --> B[LINE Webhook 接收]
-     B --> C[關鍵字提取]
-     B --> D[情緒分析]
-     C --> E[SQLite 紀錄]
-     D --> E[SQLite 紀錄]
-     E --> F[即時回覆 + 週期回顧]
+     B --> C[SQLite 紀錄]
+     C --> E[關鍵字提取]
+     E --> F[每週回顧]
+     F --> G[AI回覆]
 
     
  ## 🗺️ Roadmap
@@ -66,7 +64,7 @@ LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token_here
 - v0 Echo Bot → 完成
 - v1 SQLite 紀錄 → 完成
 - v2 關鍵字提取 → 完成
-- v3 週期回顧 → 
+- v3 週期回顧 → 完成
 - v4 AI回饋 → 
 
 
