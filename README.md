@@ -29,6 +29,7 @@
 - line-bot-sdk（LINE Messaging API SDK）
 - python-dotenv（環境變數管理）
 - SQLite（簡單資料儲存，未來擴充）
+- Jieba（中文分詞庫，關鍵字提取使用）
 
 
 ## 🚀 使用方式
